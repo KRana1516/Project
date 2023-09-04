@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-27T21:22:28 IST" name="Default suite" finished-at="2023-08-27T21:24:23 IST" duration-ms="114638">
+    <groups>
+    </groups>
+    <test started-at="2023-08-27T21:22:28 IST" name="Default test" finished-at="2023-08-27T21:24:23 IST" duration-ms="114638">
+      <class name="testcase.TC01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:22:28 IST" name="BeforeMethod" finished-at="2023-08-27T21:22:57 IST" duration-ms="28336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyGetWindowHandle()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:22:57 IST" name="verifyGetWindowHandle" finished-at="2023-08-27T21:23:08 IST" duration-ms="11735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetWindowHandle -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:08 IST" name="BeforeMethod" finished-at="2023-08-27T21:23:22 IST" duration-ms="13399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyLoginWithcrednt()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:22 IST" name="verifyLoginWithcrednt" finished-at="2023-08-27T21:23:26 IST" duration-ms="4290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithcrednt -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:26 IST" name="BeforeMethod" finished-at="2023-08-27T21:23:41 IST" duration-ms="14797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyMouseHover()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:41 IST" name="verifyMouseHover" finished-at="2023-08-27T21:23:41 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHover -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:41 IST" name="BeforeMethod" finished-at="2023-08-27T21:23:56 IST" duration-ms="14700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollDown()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:56 IST" name="verifyScrollDown" finished-at="2023-08-27T21:23:56 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollDown -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:23:56 IST" name="BeforeMethod" finished-at="2023-08-27T21:24:17 IST" duration-ms="20495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifySearchBar()[pri:0, instance:testcase.TC01@54bff557]" started-at="2023-08-27T21:24:17 IST" name="verifySearchBar" finished-at="2023-08-27T21:24:23 IST" duration-ms="6054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBar -->
+      </class> <!-- testcase.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
